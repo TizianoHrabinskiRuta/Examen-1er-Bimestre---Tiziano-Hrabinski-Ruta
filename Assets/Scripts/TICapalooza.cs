@@ -21,7 +21,7 @@ public class TICapalooza : MonoBehaviour
 
         if(VentasEnPlatea < 0 || VentasEnPlatea > 16200)
         {
-            Debug.Log("Ingreso un numero invalido para los cupos de Platea. Asegurese de que sea entre 0 y 16200");
+            Debug.Log("Ingreso un numero invalido para los cupos de Platea. Asegurese de que sea entre 0 y 16,200");
             return;
         }
 
